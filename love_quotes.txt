@@ -1,4 +1,4 @@
-const loveQuotes = [
+[
   "❤️ Love is composed of a single soul inhabiting two bodies. ❤️",
   "💖 You are my today and all of my tomorrows. 💖",
   "💕 In all the world, there is no heart for me like yours. 💕",
