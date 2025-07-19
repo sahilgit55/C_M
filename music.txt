@@ -1,5 +1,5 @@
 {
-  "defaultAlbumArt": "https://pixabay.com/get/gd727a1748135972265ed16e2fd09fcc250af6fb40fff95d3178a38d3c1c769161e3140f0af42adebb7400a2c53e89ef7bd140b7d810a50b2e4614455eb818f124522535ddfdd8af82e0edc5b7e09f900_640.jpg?attachment=",
+  "albumArts": ["https://pixabay.com/get/gd727a1748135972265ed16e2fd09fcc250af6fb40fff95d3178a38d3c1c769161e3140f0af42adebb7400a2c53e89ef7bd140b7d810a50b2e4614455eb818f124522535ddfdd8af82e0edc5b7e09f900_640.jpg?attachment=", "https://images.pexels.com/photos/792777/pexels-photo-792777.jpeg?cs=srgb&dl=pexels-annetnavi-792777.jpg&fm=jpg","https://pixabay.com/get/g44d108d70436a9a9f32a169ca039447787336c6948dc2dab5607e72213dfe1abe589792ae01b0999c9fb28115b39287070e59e1fd2ff8adaac23cbdcdbb76bb4b2273c0abf6414381cc85e22096e2a7a_640.jpg?attachment="],
   "songs": [
     "https://www.bensound.com/bensound-music/bensound-romantic.mp3",
     "https://www.bensound.com/bensound-music/bensound-love.mp3",
