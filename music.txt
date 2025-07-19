@@ -1,4 +1,6 @@
-[
+{
+  "defaultAlbumArt": "https://pixabay.com/get/gd727a1748135972265ed16e2fd09fcc250af6fb40fff95d3178a38d3c1c769161e3140f0af42adebb7400a2c53e89ef7bd140b7d810a50b2e4614455eb818f124522535ddfdd8af82e0edc5b7e09f900_640.jpg?attachment=",
+  "songs": [
     "https://www.bensound.com/bensound-music/bensound-romantic.mp3",
     "https://www.bensound.com/bensound-music/bensound-love.mp3",
     "https://www.bensound.com/bensound-music/bensound-onceagain.mp3",
@@ -7,4 +9,5 @@
     "https://www.bensound.com/bensound-music/bensound-sunny.mp3",
     "https://www.bensound.com/bensound-music/bensound-erf.mp3",
     "https://www.bensound.com/bensound-music/bensound-loveofthegame.mp3"
-]
+  ]
+}
