@@ -15,6 +15,6 @@
     { "title": "12th Meeting", "date": "June 12, 2025 09:40:00", "emoji": "🌸" },
     { "title": "13th Meeting", "date": "June 24, 2025 09:42:00", "emoji": "🌸" },
     { "title": "14th Meeting", "date": "July 14, 2025 09:11:00", "emoji": "🌸" },
-    { "title": "15th Meeting", "date": "July 17, 2026 09:10:00", "emoji": "🌸" }
+    { "title": "15th Meeting", "date": "July 17, 2025 09:10:00", "emoji": "🌸" }
   ]
 }
