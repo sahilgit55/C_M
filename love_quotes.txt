@@ -99,4 +99,4 @@
   "💝 I love you more than coffee — and that’s saying a lot. 💝",
   "❤️ I’m addicted to you. ❤️",
   "💖 You make me the happiest person alive. 💖"
-];
+]
