@@ -1,5 +1,5 @@
 {
-  "itemsPerPage": 5,
+  "itemsPerPage": 10,
   "events": [
     { "title": "5th Meeting", "date": "April 10, 2025 09:48:00", "emoji": "🌸" },
     { "title": "8th Meeting", "date": "May 9, 2025 09:23:00", "emoji": "🌸" },
