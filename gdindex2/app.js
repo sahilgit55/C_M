@@ -1797,7 +1797,7 @@ function file_image(name, encoded_name, size, url, file_id, cookie_folder_id, po
       <div class="card">
         <div class="card-body text-center">
           <div class="${UI.file_view_alert_class}" id="file_details" role="alert">${name}<br>${size}</div>
-          <img src="${poster.replace(/=s\d+$/, '=s256')}" id="load_image" width="100%">
+          <img src="${poster.replace(/=s\d+$/, '=s512')}" id="load_image" width="100%">
         </div>
         <div class="card-body">
           <div class="input-group mb-4">
