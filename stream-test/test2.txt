@@ -2,5 +2,5 @@
   {
     "name": "30 DAYS OF NIGHT",
     "url": "https://1337-links.indexer.eu.org/dl/AgADxCQAAmnrCFI/BAACAgQAAx0CXOtCcgADy2liIQJuJr6e-im1QM4XAdBtLb9rAALEJAACaesIUt36IwLhqeJdHgQ/3051225539/30_Days_Of_Night_2007_1080p_10bit_BluRay_x265_HEVC_Hindi_DVD_DD.mkv"
-  },
+  }
 ]
