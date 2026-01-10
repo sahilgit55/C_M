@@ -1,0 +1,10 @@
+[
+  {
+    "name": "30 DAYS OF NIGHT",
+    "url": "https://1337-links.indexer.eu.org/dl/AgADxCQAAmnrCFI/BAACAgQAAx0CXOtCcgADy2liIQJuJr6e-im1QM4XAdBtLb9rAALEJAACaesIUt36IwLhqeJdHgQ/3051225539/30_Days_Of_Night_2007_1080p_10bit_BluRay_x265_HEVC_Hindi_DVD_DD.mkv"
+  },
+{
+    "name": "Tron 2025",
+    "url": "https://1337-links.indexer.eu.org/dl/AgADhR0AAp0LiVE/BAACAgQAAx0CXOtCcgADzGliOQABYwG1OBR9wtlR2tn0mcY0GQAChR0AAp0LiVHNXYn6rn_HQB4E/3606427408/TRON%20-%20Legacy%20%282010%29%20Open%20Matte%20Edition%201080p%20BluRay%20%5BHindi-.mkv"
+  }
+]
